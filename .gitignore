@@ -24,7 +24,6 @@ build/
 Thumbs.db
 
 # Project specific
-data/*.json
-data/*.csv
 *.log
 scrape_progress.json
+data/*_progress.json
